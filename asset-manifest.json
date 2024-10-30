@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wallet/static/css/main.8189cf70.css",
+    "main.js": "/wallet/static/js/main.23864ce1.js",
+    "static/js/453.3d13382d.chunk.js": "/wallet/static/js/453.3d13382d.chunk.js",
+    "static/media/2.svg": "/wallet/static/media/2.c1437f37adcf3d043131d5adc51fd0db.svg",
+    "static/media/3.svg": "/wallet/static/media/3.e2b92e3770e6cce92ffe9dafe5456b16.svg",
+    "static/media/rocket.svg": "/wallet/static/media/rocket.e7891f3c353465609b16d57661f31be9.svg",
+    "static/media/4.svg": "/wallet/static/media/4.0467ded77a04660ea7c4deaf8962af2f.svg",
+    "static/media/tron.svg": "/wallet/static/media/tron.52bfd7c8282037e070073a8dafedcece.svg",
+    "static/media/usdt.svg": "/wallet/static/media/usdt.f775d19a6ddb519e9f64d607386f5f49.svg",
+    "index.html": "/wallet/index.html",
+    "main.8189cf70.css.map": "/wallet/static/css/main.8189cf70.css.map",
+    "main.23864ce1.js.map": "/wallet/static/js/main.23864ce1.js.map",
+    "453.3d13382d.chunk.js.map": "/wallet/static/js/453.3d13382d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8189cf70.css",
+    "static/js/main.23864ce1.js"
+  ]
+}
